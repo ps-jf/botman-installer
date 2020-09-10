@@ -5,10 +5,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "m.pociot@gmail.com"
+            "name": "Jonathan Foley",
+            "email": "jonathan.foley@policyservices.co.uk",
+            "role": "Developer"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "BotMan\\Installer\\Console\\": "src/"
